@@ -5,10 +5,12 @@
 ## MK: Sistem Operasi
 
 ### 1. Membuat folder baru
+membuat direktori khusus sebagai tempat file script backup
 https://drive.google.com/file/d/1vVY0dEM6hZKcUxqrtWxMjZte9SNcmbpN/view?usp=drivesdk
 ### 2. Masuk ke folder
 https://drive.google.com/file/d/1ha9kI5RYRcx5g2XimIjieaLZkPJeUIVy/view?usp=drivesdk
 ### 3. membuat file script bernama backup.sh
+yang berisikan beberapa komponen yaitu, menentukan folder sumber, folder tujuan backup, membuat file backup jika belum ada,membuat format waktu, membuat nama file backup, menentukan file yang akan di backup, mengecek file yang memenuhi syarat, membuat file backup dan mengecek apakah proses backup berhasil
 https://drive.google.com/file/d/1Zo-EhTtf0nYwD-mGCiNn619dMwh8hIKt/view?usp=drivesdk
 ```
 !/bin/bash
